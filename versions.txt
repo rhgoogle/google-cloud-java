@@ -1026,3 +1026,6 @@ google-cloud-nio:0.131.0:0.132.0-SNAPSHOT
 google-cloud-appoptimize:0.1.0:0.2.0-SNAPSHOT
 proto-google-cloud-appoptimize-v1beta:0.1.0:0.2.0-SNAPSHOT
 grpc-google-cloud-appoptimize-v1beta:0.1.0:0.2.0-SNAPSHOT
+google-cloud-pubsub:1.150.1:1.150.1
+grpc-google-cloud-pubsub-v1:1.132.1:1.132.1
+proto-google-cloud-pubsub-v1:1.132.1:1.132.1
